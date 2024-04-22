@@ -1,5 +1,8 @@
 # Project Title: Animal Head Orientation Analysis
 
+![lab_picture](https://github.com/FilipK206/MATLAB_Animal_Head_Orientation_Script/assets/109867923/70a90b5c-8133-4727-af9c-d80a39b8403d)
+
+
 ## Description
 
 This project aims to analyze the orientation of an animal's head relative to a fixed point in space, typically a light source. The MATLAB script processes coordinate data stored in the file "HeadNoseXYP.mat" and calculates the angles between the animal's head and the light source.
